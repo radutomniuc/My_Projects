@@ -1,0 +1,156 @@
+body {
+    margin: 0;
+    width: 1519px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header .header1 {
+    height: 80px;
+    background-color: black;
+
+}
+header .header1 p {
+    margin: 0;
+    color: white;
+    font-size: 30px;
+    padding-top: 5px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+header .header1 span {
+    font-size: 50px;
+    color: orange;
+    float: left;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+header .header2 {
+    height: 40px;
+    background-color: darkslategray;
+}
+header .header2 .navbar {
+    margin: 0;
+    padding: 0;
+}
+header .header2 .navbar ul {
+    padding: 0;
+}
+header .header2 .navbar li {
+    display: inline-flex;
+    padding-top: 10px;
+    text-align: center; 
+    padding-right: 15px;
+    padding-left: 15px;
+    border-right: 1px solid black;
+    height: 30px;
+}
+header .header2 .navbar a:link {
+    text-decoration: none;
+    color: white;
+}
+header .header2 .navbar a:visited:hover {
+    color:orange;
+}
+header .header2 .navbar a:link:hover {
+    color:orange;
+}
+header .header2 .navbar a:visited {
+    color: white;
+}
+article {
+    width: 1179px;
+    display: inline-block;
+    background-color: beige;
+    height: 971px;
+}
+article section {
+    height: 240px;
+    margin: 0;
+    width: 1120px;
+    margin-top: 50px;
+}
+article section .image {
+    height: 200px;
+    width: 200px;
+    float: left;
+    background-color: darkgrey;
+    margin-left: 25px;
+}
+article section .text {
+    margin-left: 270px;
+}
+article section .text p {
+    color: darkslategray;
+    font-size: 16px;
+}
+article section .text a {
+    color: orange;
+    font-weight: bold;
+    font-size: 19px;
+}
+article section .text a:hover {
+    color: grey;
+}
+article section .text a:link {
+    text-decoration: none;
+    color: orange;
+}
+article section .bar {
+    height: 1px;
+    background-color: darkgray;
+    margin-top: 105px;
+    margin-left: 25px;
+    width: 1120px;
+}
+aside {
+    float: right;
+    width: 320px;
+    height: 938px;
+    padding-top: 33px;
+    background-color: darkgray;
+    padding-left: 20px;
+}
+aside .sidbar {
+    height: 1px;
+    width: 300px;
+    background-color: lightgray;
+}
+aside ul {
+    padding-left:0px;
+}
+aside li{
+   width: 400px;
+   list-style-type: none;
+   padding-top: 15px;
+   padding-left: 10px;
+}
+
+aside a:link:hover, a:visited:hover{
+    color:white;
+}
+aside a:link {
+    text-decoration: none;
+    color: yellow;
+}
+aside a:visited {
+    color: yellow;
+}
+
+aside p {
+    font-size: 17px;
+    padding-right: 20px;
+}
+footer {
+    height: 70px;
+    background-color: darkslategray;
+    margin: 0;
+}
+footer p {
+    text-align: center;
+    padding-top: 26px;
+    color: white;
+    margin: 0;
+}
+footer span {
+    color: orange;
+}
