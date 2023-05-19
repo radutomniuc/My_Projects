@@ -1,3 +1,6 @@
+USERNAME: green
+PASSWORD: light
+
 Landing Pages (realizat individual): 
 
 1. JETFLEX: vanilla JS, SCCS, fetch data
