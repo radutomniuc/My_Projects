@@ -14,7 +14,7 @@ Medium Apps (contributie personala majora):
 1. Humancom-Esamble: framework Vue,  SCSS,  jQuery
 Link: https://www.catalogue-virtuel.com/HUMANCOM/2022/K43262.humancom.ensemble.n33.hiver.appli.web.2023/catalogue/index.html#/home
 
-2.Centrakor: framework Vue, module share, framework Tailwind
+2. Centrakor: framework Vue, module share, framework Tailwind
 Link: https://www.catalogue-virtuel.com/2022/K42000/K42537.centrakor.catalogue.698.deco.printemps.2022.8p/catalogue/index.html#/summary
 
 Large Apps (contributie specifica/in echipa): 
